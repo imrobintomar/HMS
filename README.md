@@ -41,15 +41,15 @@ Hotel Management System is a web application developed to Programming Language c
 
 To read the entire documentation, go to [Wiki](https://github.com/LBeghini/Hotel-Management-System/wiki)
 
-## [Releases](https://github.com/LBeghini/Hotel-Management-System/releases)
+## [Releases]([https://github.com/LBeghini/Hotel-Management-System/releases](https://github.com/imrobintomar/HMS.git))
 
 Each release of this project implements a semester of the Programming Language class.
 
 
 |  CLASS                    |      TAG                                                                            |
 | :------------             | :---------:                                                                         |
-| Programming Language II   |     [v1.0](https://github.com/LBeghini/Hotel-Management-System/releases/tag/1.0)    |
-| Programming Language III  |     [v2.0](https://github.com/LBeghini/Hotel-Management-System/releases/tag/2.0)    |
+| Programming Language II   |     [v1.0](https://github.com/imrobintomar/HMS.git)   |
+| Programming Language III  |     [v2.0](https://github.com/imrobintomar/HMS.git)    |
 
 
 > Access the release page for a better description of what the release implements 
@@ -65,7 +65,7 @@ To run and edit this project locally, it's required that you have installed the 
 
 After that, you'll need to clone this repo:
 ```
-git clone https://github.com/LBeghini/Hotel-Management-System.git
+git clone https://https://github.com/imrobintomar/HMS.git
 ```
 
 ## Setup Environment
@@ -124,6 +124,5 @@ to open Cypress.
 
 From the prompt that appears you can choose to run a scpecific test, or all tests.
 
-## :balance_scale: License
 
-[GPL-2.0 License](https://github.com/eppica/Hotel-Management-System/blob/master/LICENSE)
+
